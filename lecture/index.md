@@ -1,3 +1,10 @@
+```{toctree}
+---
+hidden: true
+includehidden: true
+titlesonly: true
+---
+```
 
 <img align="right" src="https://raw.githubusercontent.com/PeerHerholz/Python_for_Psychologists_Winter2021/master/lecture/static/pfp_logo.png" alt="logo" title="Twitter" width="500" height="300" />
 
@@ -26,7 +33,7 @@ You can use the following sections to navigate through the content of the lectur
 
 * [Overview & procedure ](https://peerherholz.github.io/Python_for_Psychologists_Winter2021/overview.html)
 
-   What's this course all about? How are things implemented and supposed to work? 
+   What's this course all about? How are things implemented and supposed to work?
 
 * [General outline](https://peerherholz.github.io/Python_for_Psychologists_Winter2021/outline.html)
 
@@ -39,11 +46,11 @@ You can use the following sections to navigate through the content of the lectur
 
 * [Running experiments in Python](https://peerherholz.github.io/Python_for_Psychologists_Winter2021/experiments/experiments.html#)
 
-   How can you use python to conduct experiments to acquire data from participants? 
+   How can you use python to conduct experiments to acquire data from participants?
 
 * [Data analyses in Python](https://peerherholz.github.io/Python_for_Psychologists_Winter2021/analyses/analyses.html)
 
-   How can you use python to obtain insights from data, including preprocessing, statistics and visualizations? 
+   How can you use python to obtain insights from data, including preprocessing, statistics and visualizations?
 
 * [Student projects](https://peerherholz.github.io/Python_for_Psychologists_Winter2021/projects.html)
 
