@@ -3,6 +3,3 @@
 
 # PyCharm
 .idea/
-
-# build
-lecture/_build/*
