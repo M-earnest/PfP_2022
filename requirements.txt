@@ -1,0 +1,14 @@
+sphinx==4.5.0
+sphinx-book-theme
+myst-nb
+ghp-import
+jupyter-book==0.13.0
+jupytext
+seaborn
+matplotlib
+pingouin
+statsmodels
+pandas
+scipy
+Jinja2
+MyST-NB==0.13.1
